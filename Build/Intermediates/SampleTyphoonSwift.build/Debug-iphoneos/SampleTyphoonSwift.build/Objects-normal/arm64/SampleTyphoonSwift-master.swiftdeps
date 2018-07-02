@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "c49086231fe0c4d34e609776f26bba84"
+build_time: [1530525671, 872876000]
+inputs:
+  "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/SampleTyphoonSwift/ViewController.swift": [1530524737, 0]
+  "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/SampleTyphoonSwift/AppDelegate.swift": [1530524737, 0]

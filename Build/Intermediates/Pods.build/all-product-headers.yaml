@@ -1,0 +1,750 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Build/Products/Debug-iphonesimulator/Pods_SampleTyphoonSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-SampleTyphoonSwift-umbrella.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Target Support Files/Pods-SampleTyphoonSwift/Pods-SampleTyphoonSwift-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_SampleTyphoonSwift-Swift.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Build/Products/Debug-iphonesimulator/Pods_SampleTyphoonSwift.framework/Headers/Pods_SampleTyphoonSwift-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Build/Products/Debug-iphonesimulator/Pods_SampleTyphoonSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SampleTyphoonSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Build/Products/Debug-iphonesimulator/Typhoon/Typhoon.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Collections+CustomInjection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/Collections+CustomInjection.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+TyphoonManualEnumeration.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/NSArray+TyphoonManualEnumeration.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+CustomInjection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/NSDictionary+CustomInjection.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSInvocation+TCFCustomImplementation.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/NSInvocation+TCFCustomImplementation.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSInvocation+TCFInstanceBuilder.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/NSInvocation+TCFInstanceBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSInvocation+TCFUnwrapValues.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/NSInvocation+TCFUnwrapValues.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSInvocation+TCFWrapValues.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/NSInvocation+TCFWrapValues.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSLayoutConstraint+TyphoonOutletTransfer.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/NSLayoutConstraint+TyphoonOutletTransfer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMethodSignature+TCFUnwrapValues.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/NSMethodSignature+TCFUnwrapValues.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNullTypeConverter.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/Converters/NSNullTypeConverter.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+DeallocNotification.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/NSObject+DeallocNotification.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+FactoryHooks.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Hooks/NSObject+FactoryHooks.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+PropertyInjection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/NSObject+PropertyInjection.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+TyphoonIntrospectionUtils.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/NSObject+TyphoonIntrospectionUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSValue+TCFUnwrapValues.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/NSValue+TCFUnwrapValues.h"
+        },
+        {
+          'type': 'file',
+          'name': "OCLogTemplate.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Vendor/OCLogTemplate/OCLogTemplate.h"
+        },
+        {
+          'type': 'file',
+          'name': "Typhoon+Infrastructure.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Typhoon+Infrastructure.h"
+        },
+        {
+          'type': 'file',
+          'name': "Typhoon-Swift.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Build/Products/Debug-iphonesimulator/Typhoon/Typhoon.framework/Headers/Typhoon-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Typhoon-umbrella.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Target Support Files/Typhoon/Typhoon-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Typhoon.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Typhoon.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAbstractDetachableComponentFactoryPostProcessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/TyphoonAbstractDetachableComponentFactoryPostProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAbstractInjection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonAbstractInjection.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAssembly+TyphoonAssemblyFriend.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Assembly/TyphoonAssembly+TyphoonAssemblyFriend.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAssembly.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Assembly/TyphoonAssembly.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAssemblyAccessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Assembly/TyphoonAssemblyAccessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAssemblyAdviser.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonAssemblyAdviser.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAssemblyBuilder+PlistProcessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonAssemblyBuilder+PlistProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAssemblyBuilder.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonAssemblyBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAssemblyDefinitionBuilder.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonAssemblyDefinitionBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAssemblyPropertyInjectionPostProcessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonAssemblyPropertyInjectionPostProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAssemblySelectorAdviser.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonAssemblySelectorAdviser.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonAutoInjection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/AutoInjection/TyphoonAutoInjection.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonBlockComponentFactory.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonBlockComponentFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonBlockDefinition+InstanceBuilder.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/TyphoonBlockDefinition+InstanceBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonBlockDefinition+Internal.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/TyphoonBlockDefinition+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonBlockDefinition.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/TyphoonBlockDefinition.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonBlockDefinitionController.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/TyphoonBlockDefinitionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonBundleResource.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/Resource/TyphoonBundleResource.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonBundledImageTypeConverter.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/TypeConversion/Converters/TyphoonBundledImageTypeConverter.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonCallStack.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonCallStack.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonCircularDependencyTerminator.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonCircularDependencyTerminator.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonCollaboratingAssembliesCollector.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonCollaboratingAssembliesCollector.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonCollaboratingAssemblyPropertyEnumerator.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonCollaboratingAssemblyPropertyEnumerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonCollaboratingAssemblyProxy.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonCollaboratingAssemblyProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonColorConversionUtils.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/Helpers/TyphoonColorConversionUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonComponentFactory+InstanceBuilder.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonComponentFactory+InstanceBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonComponentFactory+Storyboard.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/TyphoonComponentFactory+Storyboard.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonComponentFactory+TyphoonDefinitionRegisterer.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonComponentFactory+TyphoonDefinitionRegisterer.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonComponentFactory.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/TyphoonComponentFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonComponentsPool.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Pool/TyphoonComponentsPool.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonConfigPostProcessor+Internal.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/ConfigPostProcessor/Internal/TyphoonConfigPostProcessor+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonConfigPostProcessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/ConfigPostProcessor/TyphoonConfigPostProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonConfiguration.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/ConfigPostProcessor/TyphoonConfiguration/TyphoonConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinition+Config.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/ConfigPostProcessor/TyphoonDefinition+Config.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinition+Infrastructure.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Infrastructure/TyphoonDefinition+Infrastructure.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinition+InstanceBuilder.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/TyphoonDefinition+InstanceBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinition+Internal.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/TyphoonDefinition+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinition+Option.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/DefinitionOptionConfiguration/TyphoonDefinition+Option.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinition+Storyboard.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/TyphoonDefinition+Storyboard.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinition.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/TyphoonDefinition.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinitionNamespace.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Namespacing/TyphoonDefinitionNamespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinitionPostProcessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/TyphoonDefinitionPostProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonDefinitionRegisterer.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/TyphoonDefinitionRegisterer.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonFactoryAutoInjectionPostProcessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/AutoInjection/TyphoonFactoryAutoInjectionPostProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonFactoryDefinition.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/TyphoonFactoryDefinition.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonFactoryPropertyInjectionPostProcessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonFactoryPropertyInjectionPostProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonGlobalConfigCollector.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/GlobalConfigResolver/TyphoonGlobalConfigCollector.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInject.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInject.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectedObject.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/AutoInjection/TyphoonInjectedObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjection.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByCollection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByCollection.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByComponentFactory.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByComponentFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByConfig.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByConfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByCurrentRuntimeArguments.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByCurrentRuntimeArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByDictionary.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByDictionary.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByFactoryReference.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByFactoryReference.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByObjectFromString.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByObjectFromString.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByObjectInstance.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByObjectInstance.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByReference.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByReference.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByRuntimeArgument.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByRuntimeArgument.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionByType.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionByType.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionContext.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjectionContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionDefinition.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/TyphoonInjectionDefinition.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjections.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonInjections.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInjectionsEnumeration.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Infrastructure/TyphoonInjectionsEnumeration.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonInstancePostProcessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/TyphoonInstancePostProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonIntrospectionUtils.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/TyphoonIntrospectionUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonJsonStyleConfiguration.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/ConfigPostProcessor/TyphoonConfiguration/TyphoonJsonStyleConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonLinkerCategoryBugFix.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/TyphoonLinkerCategoryBugFix.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonLoadedView.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/TyphoonLoadedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonMemoryManagementUtils.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonMemoryManagementUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonMethod+InstanceBuilder.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Method/Internal/TyphoonMethod+InstanceBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonMethod.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Method/TyphoonMethod.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonMethodSwizzler.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/Swizzle/TyphoonMethodSwizzler.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonNSNumberTypeConverter.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/Converters/TyphoonNSNumberTypeConverter.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonNSURLTypeConverter.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/Converters/TyphoonNSURLTypeConverter.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonNibLoader.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Nib/TyphoonNibLoader.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonObjectWithCustomInjection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/TyphoonObjectWithCustomInjection.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonOptionMatcher+Internal.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/DefinitionOptionConfiguration/Matcher/TyphoonOptionMatcher+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonOptionMatcher.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/DefinitionOptionConfiguration/Matcher/TyphoonOptionMatcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonOrdered.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/TyphoonOrdered.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonParameterInjection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonParameterInjection.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonParentReferenceHydratingPostProcessor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonParentReferenceHydratingPostProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonPassThroughTypeConverter.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/Converters/TyphoonPassThroughTypeConverter.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonPatcher.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Test/Patcher/TyphoonPatcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonPathResource.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/Resource/TyphoonPathResource.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonPlistStyleConfiguration.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/ConfigPostProcessor/TyphoonConfiguration/TyphoonPlistStyleConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonPreattachedComponentsRegisterer.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/TyphoonPreattachedComponentsRegisterer.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonPrimitiveTypeConverter.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/Converters/TyphoonPrimitiveTypeConverter.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonPropertyInjection.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Injections/TyphoonPropertyInjection.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonPropertyStyleConfiguration.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/ConfigPostProcessor/TyphoonConfiguration/TyphoonPropertyStyleConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonReferenceDefinition.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Definition/Internal/TyphoonReferenceDefinition.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonResource.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/Resource/TyphoonResource.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonRuntimeArguments.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonRuntimeArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonSelector.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/TyphoonSelector.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonStackElement.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Internal/TyphoonStackElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonStartup.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Configuration/Startup/TyphoonStartup.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonStoryboard.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/TyphoonStoryboard.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonStoryboardDefinition.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Definition/TyphoonStoryboardDefinition.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonStoryboardDefinitionContext.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Definition/TyphoonStoryboardDefinitionContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonStoryboardProvider.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/TyphoonStoryboardProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonStoryboardResolver.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/TyphoonStoryboardResolver.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonSwizzlerDefaultImpl.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/Swizzle/TyphoonSwizzlerDefaultImpl.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonTestUtils.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Test/TestUtils/TyphoonTestUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonTypeConversionUtils.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/TyphoonTypeConversionUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonTypeConverter.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/TyphoonTypeConverter.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonTypeConverterRegistry.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/TyphoonTypeConverterRegistry.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonTypeDescriptor.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/TypeConversion/TyphoonTypeDescriptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonUIColorTypeConverter.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/TypeConversion/Converters/TyphoonUIColorTypeConverter.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonUtils.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Utils/TyphoonUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonViewControllerFactory.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/TyphoonViewControllerFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonViewControllerInjector.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Configuration/TyphoonViewControllerInjector.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonViewControllerNibResolver.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Nib/TyphoonViewControllerNibResolver.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonViewHelpers.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/TyphoonViewHelpers.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphoonWeakComponentsPool.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/Factory/Pool/TyphoonWeakComponentsPool.h"
+        },
+        {
+          'type': 'file',
+          'name': "TyphooniOS.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/TyphooniOS.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIResponder+TyphoonOutletTransfer.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/UIResponder+TyphoonOutletTransfer.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+TyphoonDefinitionKey.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/Internal/UIView+TyphoonDefinitionKey.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+TyphoonOutletTransfer.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/UIView+TyphoonOutletTransfer.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+TyphoonStoryboardIntegration.h",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Pods/Typhoon/Source/ios/Storyboard/Internal/UIViewController+TyphoonStoryboardIntegration.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Build/Products/Debug-iphonesimulator/Typhoon/Typhoon.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/adithyareddy/Documents/personal/SampleTyphoonSwift/Build/Intermediates/Pods.build/Debug-iphonesimulator/Typhoon.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

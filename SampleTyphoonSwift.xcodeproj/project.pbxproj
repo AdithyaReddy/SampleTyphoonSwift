@@ -1,0 +1,408 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5DE50A421965FA99DF9E9C5C /* Pods_SampleTyphoonSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD3F22F532B385192C103E68 /* Pods_SampleTyphoonSwift.framework */; };
+		65570C5420EA2BC10096CFBD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65570C5320EA2BC10096CFBD /* AppDelegate.swift */; };
+		65570C5620EA2BC10096CFBD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65570C5520EA2BC10096CFBD /* ViewController.swift */; };
+		65570C5920EA2BC10096CFBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65570C5720EA2BC10096CFBD /* Main.storyboard */; };
+		65570C5B20EA2BC10096CFBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65570C5A20EA2BC10096CFBD /* Assets.xcassets */; };
+		65570C5E20EA2BC10096CFBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65570C5C20EA2BC10096CFBD /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3DE82E0A6CA24B150E130873 /* Pods-SampleTyphoonSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SampleTyphoonSwift.release.xcconfig"; path = "Pods/Target Support Files/Pods-SampleTyphoonSwift/Pods-SampleTyphoonSwift.release.xcconfig"; sourceTree = "<group>"; };
+		65570C5020EA2BC10096CFBD /* SampleTyphoonSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleTyphoonSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		65570C5320EA2BC10096CFBD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		65570C5520EA2BC10096CFBD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		65570C5820EA2BC10096CFBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		65570C5A20EA2BC10096CFBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		65570C5D20EA2BC10096CFBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		65570C5F20EA2BC10096CFBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65570C6520EA2EB10096CFBD /* SampleTyphoonSwift-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SampleTyphoonSwift-Bridging-Header.h"; sourceTree = "<group>"; };
+		6E66E7E591CD15E482E4D9C6 /* Pods-SampleTyphoonSwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SampleTyphoonSwift.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SampleTyphoonSwift/Pods-SampleTyphoonSwift.debug.xcconfig"; sourceTree = "<group>"; };
+		CD3F22F532B385192C103E68 /* Pods_SampleTyphoonSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SampleTyphoonSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		65570C4D20EA2BC10096CFBD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5DE50A421965FA99DF9E9C5C /* Pods_SampleTyphoonSwift.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0259F60C3E73CF8E1D807047 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6E66E7E591CD15E482E4D9C6 /* Pods-SampleTyphoonSwift.debug.xcconfig */,
+				3DE82E0A6CA24B150E130873 /* Pods-SampleTyphoonSwift.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		2493A65B08C7B6DD79A05EF3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CD3F22F532B385192C103E68 /* Pods_SampleTyphoonSwift.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		65570C4720EA2BC10096CFBD = {
+			isa = PBXGroup;
+			children = (
+				65570C5220EA2BC10096CFBD /* SampleTyphoonSwift */,
+				65570C5120EA2BC10096CFBD /* Products */,
+				0259F60C3E73CF8E1D807047 /* Pods */,
+				2493A65B08C7B6DD79A05EF3 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		65570C5120EA2BC10096CFBD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				65570C5020EA2BC10096CFBD /* SampleTyphoonSwift.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		65570C5220EA2BC10096CFBD /* SampleTyphoonSwift */ = {
+			isa = PBXGroup;
+			children = (
+				65570C5320EA2BC10096CFBD /* AppDelegate.swift */,
+				65570C5520EA2BC10096CFBD /* ViewController.swift */,
+				65570C5720EA2BC10096CFBD /* Main.storyboard */,
+				65570C5A20EA2BC10096CFBD /* Assets.xcassets */,
+				65570C5C20EA2BC10096CFBD /* LaunchScreen.storyboard */,
+				65570C5F20EA2BC10096CFBD /* Info.plist */,
+				65570C6520EA2EB10096CFBD /* SampleTyphoonSwift-Bridging-Header.h */,
+			);
+			path = SampleTyphoonSwift;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		65570C4F20EA2BC10096CFBD /* SampleTyphoonSwift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65570C6220EA2BC10096CFBD /* Build configuration list for PBXNativeTarget "SampleTyphoonSwift" */;
+			buildPhases = (
+				29DC5E7EB8684FD824D843DA /* [CP] Check Pods Manifest.lock */,
+				65570C4C20EA2BC10096CFBD /* Sources */,
+				65570C4D20EA2BC10096CFBD /* Frameworks */,
+				65570C4E20EA2BC10096CFBD /* Resources */,
+				7BE21DBD003659C25D87CC8C /* [CP] Embed Pods Frameworks */,
+				75A2629469DFD74CD2E75FAB /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SampleTyphoonSwift;
+			productName = SampleTyphoonSwift;
+			productReference = 65570C5020EA2BC10096CFBD /* SampleTyphoonSwift.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		65570C4820EA2BC10096CFBD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0910;
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = "Adithya Reddy";
+				TargetAttributes = {
+					65570C4F20EA2BC10096CFBD = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 65570C4B20EA2BC10096CFBD /* Build configuration list for PBXProject "SampleTyphoonSwift" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 65570C4720EA2BC10096CFBD;
+			productRefGroup = 65570C5120EA2BC10096CFBD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				65570C4F20EA2BC10096CFBD /* SampleTyphoonSwift */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		65570C4E20EA2BC10096CFBD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65570C5E20EA2BC10096CFBD /* LaunchScreen.storyboard in Resources */,
+				65570C5B20EA2BC10096CFBD /* Assets.xcassets in Resources */,
+				65570C5920EA2BC10096CFBD /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		29DC5E7EB8684FD824D843DA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		75A2629469DFD74CD2E75FAB /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SampleTyphoonSwift/Pods-SampleTyphoonSwift-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7BE21DBD003659C25D87CC8C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SampleTyphoonSwift/Pods-SampleTyphoonSwift-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		65570C4C20EA2BC10096CFBD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65570C5620EA2BC10096CFBD /* ViewController.swift in Sources */,
+				65570C5420EA2BC10096CFBD /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		65570C5720EA2BC10096CFBD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				65570C5820EA2BC10096CFBD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		65570C5C20EA2BC10096CFBD /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				65570C5D20EA2BC10096CFBD /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		65570C6020EA2BC10096CFBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		65570C6120EA2BC10096CFBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		65570C6320EA2BC10096CFBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E66E7E591CD15E482E4D9C6 /* Pods-SampleTyphoonSwift.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 55SADH7J8W;
+				INFOPLIST_FILE = SampleTyphoonSwift/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = AdithyaReddy.SampleTyphoonSwift;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "SampleTyphoonSwift/SampleTyphoonSwift-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		65570C6420EA2BC10096CFBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3DE82E0A6CA24B150E130873 /* Pods-SampleTyphoonSwift.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 55SADH7J8W;
+				INFOPLIST_FILE = SampleTyphoonSwift/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = AdithyaReddy.SampleTyphoonSwift;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "SampleTyphoonSwift/SampleTyphoonSwift-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		65570C4B20EA2BC10096CFBD /* Build configuration list for PBXProject "SampleTyphoonSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65570C6020EA2BC10096CFBD /* Debug */,
+				65570C6120EA2BC10096CFBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65570C6220EA2BC10096CFBD /* Build configuration list for PBXNativeTarget "SampleTyphoonSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65570C6320EA2BC10096CFBD /* Debug */,
+				65570C6420EA2BC10096CFBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 65570C4820EA2BC10096CFBD /* Project object */;
+}
